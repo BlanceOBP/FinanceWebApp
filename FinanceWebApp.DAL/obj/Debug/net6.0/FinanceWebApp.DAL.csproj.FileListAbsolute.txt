@@ -1,0 +1,17 @@
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.DAL.deps.json
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.DAL.dll
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.DAL.pdb
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.Domain.dll
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.Domain.pdb
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.csproj.AssemblyReference.cache
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.AssemblyInfoInputs.cache
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.AssemblyInfo.cs
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.csproj.CopyComplete
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.dll
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\refint\FinanceWebApp.DAL.dll
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.pdb
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\ref\FinanceWebApp.DAL.dll
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\bin\Debug\net6.0\FinanceWebApp.DAL.runtimeconfig.json
+C:\Users\dzakh\Desktop\FinanceProjectFile\FinanceWebApp\FinanceWebApp.DAL\obj\Debug\net6.0\FinanceWebApp.DAL.genruntimeconfig.cache
