@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FinanceWebApp.Domain/1.0.0": {
+        "runtime": {
+          "FinanceWebApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceWebApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
